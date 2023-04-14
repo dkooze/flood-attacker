@@ -33,8 +33,8 @@
 ## Screenshot
 <br>
 <p align="center">
-<img width="50%" src="https://github.com/IncredibleHacker/Fl00d-Attacker/blob/main/IMG_20210627_203246.jpg"/>
-<img width="50%" src="https://github.com/IncredibleHacker/Fl00d-Attacker/blob/main/IMG_20210627_202415.jpg"/>
+<img width="50%" src="https://github.com/dkooze/flood-attacker/blob/main/IMG_20210627_203246.jpg"/>
+<img width="50%" src="https://github.com/dkooze/flood-attacker/blob/main/IMG_20210627_202415.jpg"/>
 
 ## Warning
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
